@@ -239,6 +239,7 @@ The full list of supported POS tags is given below.
 package main
 
 import (
+    "fmt"
     "github.com/jdkato/prose/v2"
 )
 
